@@ -25,17 +25,26 @@
 
 /* CORE CSS */
 
+<<<<<<< HEAD
 
 @font-face {
     font-family: 'Exo 2', sans-serif;
+=======
+@font-face {
+    font-family: 'Ubuntu', sans-serif;
+>>>>>>> 437cc1b0031a9420c06438ba1557ae46919e24a4
     font-weight: normal;
     font-style: normal;
 
 }
 
 body {
+<<<<<<< HEAD
 	font-family:'Exo 2', sans-serif;
 ';
+=======
+	font-family: 'Ubuntu', sans-serif;
+>>>>>>> 437cc1b0031a9420c06438ba1557ae46919e24a4
 	font-size:1.4em;
 	line-height:1.5em;
 	overflow-x:hidden;
@@ -46,26 +55,42 @@ section {
 }
 
 h2 {
+<<<<<<< HEAD
 	font-family: 'Exo 2', sans-serif;
 
+=======
+	font-family: 'Ubuntu', sans-serif;
+>>>>>>> 437cc1b0031a9420c06438ba1557ae46919e24a4
 	font-size:27px;
 	margin-top:0;
 	margin-bottom:40px;
 }
 
 h3 {
+<<<<<<< HEAD
 	font-family: 'Exo 2', sans-serif;
 }
 
 h4 {
     font-family: 'Exo 2', sans-serif;
+=======
+	font-family: 'Ubuntu', sans-serif;
+}
+
+h4 {
+	font-family: 'Ubuntu', sans-serif;
+>>>>>>> 437cc1b0031a9420c06438ba1557ae46919e24a4
 	font-size:17px;
 	letter-spacing:-1px;
 	margin-bottom:5px;	
 }
 
 .lead {
+<<<<<<< HEAD
 	font-family:'Exo 2', sans-serif;
+=======
+	font-family: 'Ubuntu', sans-serif;
+>>>>>>> 437cc1b0031a9420c06438ba1557ae46919e24a4
 	font-size:17px;
 	letter-spacing:1px;
 }
@@ -84,9 +109,13 @@ h4 {
 }
 
 .navbar-custom {
+<<<<<<< HEAD
     font-family: 'Exo 2', sans-serif;
+=======
+	font-family: 'Ubuntu', sans-serif;
+>>>>>>> 437cc1b0031a9420c06438ba1557ae46919e24a4
 	font-size:12px;
-    font-weight: bold
+        font-weight: bold
 	border-radius:0;
 	margin-bottom:0;
 	padding: 0;
@@ -123,7 +152,11 @@ h4 {
 }
 
 #top h1 {
+<<<<<<< HEAD
 	font-family:'Exo 2', sans-serif;
+=======
+	font-family: 'Ubuntu', sans-serif;
+>>>>>>> 437cc1b0031a9420c06438ba1557ae46919e24a4
 	font-size:60px;
 	margin-top:2em;
 }
@@ -141,13 +174,21 @@ h4 {
 }
 
 #countdown .countdown_amount {
+<<<<<<< HEAD
 	font-family:'Exo 2', sans-serif;
+=======
+	font-family: 'Ubuntu', sans-serif;
+>>>>>>> 437cc1b0031a9420c06438ba1557ae46919e24a4
 	font-size:50px;
 	margin-bottom:10px;
 }
 
 #countdown .countdown_section {
+<<<<<<< HEAD
 	font-family: 'Exo 2', sans-serif;
+=======
+	font-family: 'Ubuntu', sans-serif;
+>>>>>>> 437cc1b0031a9420c06438ba1557ae46919e24a4
 	font-size:10px;
 }
 
@@ -192,7 +233,11 @@ h4 {
 }
 
 .fact .timer {
+<<<<<<< HEAD
 	font-family:'Exo 2', sans-serif; 
+=======
+	font-family:'Ubuntu', sans-serif; 
+>>>>>>> 437cc1b0031a9420c06438ba1557ae46919e24a4
 	font-size:55px;
 	line-height:55px;
 }
@@ -200,7 +245,12 @@ h4 {
 .fact p {
 	font-family:'Exo 2', sans-serif;
 	font-size:13px;
+<<<<<<< HEAD
     letter-spacing:1px;
+=======
+	font-family:'Ubuntu', sans-serif;
+	letter-spacing:1px;
+>>>>>>> 437cc1b0031a9420c06438ba1557ae46919e24a4
 }
 
 .fact i {
@@ -274,7 +324,11 @@ h4 {
 }
 
 .speaker .title {
+<<<<<<< HEAD
 	font-family:'Exo 2', sans-serif;
+=======
+	font-family:'Ubuntu', sans-serif;
+>>>>>>> 437cc1b0031a9420c06438ba1557ae46919e24a4
 	font-size:12px;
 }
 
@@ -341,7 +395,11 @@ h4 {
 }
 
 .event .icon .time {
+<<<<<<< HEAD
 	font-family:'Exo 2', sans-serif;
+=======
+	font-family:'Ubuntu', sans-serif;
+>>>>>>> 437cc1b0031a9420c06438ba1557ae46919e24a4
 	font-size:22px;
 	font-weight:700;
 }
@@ -357,7 +415,11 @@ h4 {
 }
 
 .event .name {
+<<<<<<< HEAD
 	font-family:'Exo 2', sans-serif;
+=======
+	font-family:'Ubuntu', sans-serif;
+>>>>>>> 437cc1b0031a9420c06438ba1557ae46919e24a4
 	font-size:14px;
 }
 
@@ -378,7 +440,11 @@ h4 {
 
 #days .item h4,
 #days .item h5 {
+<<<<<<< HEAD
 	font-family:'Exo 2', sans-serif;
+=======
+	font-family:'Ubuntu', sans-serif;
+>>>>>>> 437cc1b0031a9420c06438ba1557ae46919e24a4
 	margin-bottom:10px;
 	text-align:center;
 	cursor:pointer;
@@ -417,7 +483,11 @@ h4 {
 }
 
 #venue h4 {
+<<<<<<< HEAD
 	font-family:'Exo 2', sans-serif;
+=======
+	font-family:'Ubuntu', sans-serif;
+>>>>>>> 437cc1b0031a9420c06438ba1557ae46919e24a4
 	margin-bottom:15px;
 }
 
@@ -467,7 +537,11 @@ h4 {
 }
 
 #testimonial h4 {
+<<<<<<< HEAD
 	font-family:'Exo 2', sans-serif;
+=======
+	font-family:'Ubuntu', sans-serif;
+>>>>>>> 437cc1b0031a9420c06438ba1557ae46919e24a4
 	letter-spacing:1px;
 	margin:0;
 }
@@ -562,7 +636,7 @@ h4 {
 }
 
 .price-table-header .price {
-	font-family:'Economica';
+	font-family:'Ubuntu', sans-serif;
 	font-size:61px;
 	font-weight:700;
 	margin-bottom:10px;
@@ -570,7 +644,11 @@ h4 {
 }
 
 .price-table-header .title {
+<<<<<<< HEAD
 	font-family:'Exo 2', sans-serif;
+=======
+	font-family:'Ubuntu', sans-serif;
+>>>>>>> 437cc1b0031a9420c06438ba1557ae46919e24a4
 	font-size:22px;
 	padding-bottom:20px;
 	line-height:22px;
@@ -704,7 +782,11 @@ select {
 /* BUTTONS */
 
 .button {
+<<<<<<< HEAD
 	font-family:'Exo 2', sans-serif;
+=======
+	font-family:'Ubuntu', sans-serif;
+>>>>>>> 437cc1b0031a9420c06438ba1557ae46919e24a4
 	font-size: 10px;
 	text-transform: uppercase;
 	border: none;
