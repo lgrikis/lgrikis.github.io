@@ -26,69 +26,14 @@
 /* CORE CSS */
 
 @font-face {
-    font-family: 'sinkin_sans200_x_light';
-    src: url('../fonts/SinkinSans-200XLight-webfont.eot');
-    src: url('../fonts/SinkinSans-200XLight-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/SinkinSans-200XLight-webfont.woff') format('woff'),
-         url('../fonts/SinkinSans-200XLight-webfont.ttf') format('truetype'),
-         url('../fonts/SinkinSans-200XLight-webfont.svg#sinkin_sans200_x_light') format('svg');
+    font-family: 'Ubuntu', sans-serif;
     font-weight: normal;
     font-style: normal;
 
 }
-
-@font-face {
-    font-family: 'sinkin_sans300_light';
-    src: url('../fonts/SinkinSans-300Light-webfont.eot');
-    src: url('../fonts/SinkinSans-300Light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/SinkinSans-300Light-webfont.woff') format('woff'),
-         url('../fonts/SinkinSans-300Light-webfont.ttf') format('truetype'),
-         url('../fonts/SinkinSans-300Light-webfont.svg#sinkin_sans300_light') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'sinkin_sans400_regular';
-    src: url('../fonts/SinkinSans-400Regular-webfont.eot');
-    src: url('../fonts/SinkinSans-400Regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/SinkinSans-400Regular-webfont.woff') format('woff'),
-         url('../fonts/SinkinSans-400Regular-webfont.ttf') format('truetype'),
-         url('../fonts/SinkinSans-400Regular-webfont.svg#sinkin_sans400_regular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'sinkin_sans600_semibold';
-    src: url('../fonts/SinkinSans-600SemiBold-webfont.eot');
-    src: url('../fonts/SinkinSans-600SemiBold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/SinkinSans-600SemiBold-webfont.woff') format('woff'),
-         url('../fonts/SinkinSans-600SemiBold-webfont.ttf') format('truetype'),
-         url('../fonts/SinkinSans-600SemiBold-webfont.svg#sinkin_sans600_semibold') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'sinkin_sans700_bold';
-    src: url('../fonts/SinkinSans-700Bold-webfont.eot');
-    src: url('../fonts/SinkinSans-700Bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/SinkinSans-700Bold-webfont.woff') format('woff'),
-         url('../fonts/SinkinSans-700Bold-webfont.ttf') format('truetype'),
-         url('../fonts/SinkinSans-700Bold-webfont.svg#sinkin_sans700_bold') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
 
 body {
-	font-family:'sinkin_sans300_light';
+	font-family: 'Ubuntu', sans-serif;
 	font-size:1.4em;
 	line-height:1.5em;
 	overflow-x:hidden;
@@ -99,25 +44,25 @@ section {
 }
 
 h2 {
-	font-family:'sinkin_sans600_semibold';
+	font-family: 'Ubuntu', sans-serif;
 	font-size:27px;
 	margin-top:0;
 	margin-bottom:40px;
 }
 
 h3 {
-	font-family:'sinkin_sans600_semibold';
+	font-family: 'Ubuntu', sans-serif;
 }
 
 h4 {
-	font-family:'sinkin_sans400_regular';
+	font-family: 'Ubuntu', sans-serif;
 	font-size:17px;
 	letter-spacing:-1px;
 	margin-bottom:5px;	
 }
 
 .lead {
-	font-family:'sinkin_sans400_regular';
+	font-family: 'Ubuntu', sans-serif;
 	font-size:17px;
 	letter-spacing:1px;
 }
@@ -136,9 +81,9 @@ h4 {
 }
 
 .navbar-custom {
-	font-family: sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	font-size:12px;
-    font-weight: bold
+        font-weight: bold
 	border-radius:0;
 	margin-bottom:0;
 	padding: 0;
@@ -175,7 +120,7 @@ h4 {
 }
 
 #top h1 {
-	font-family:'Economica';
+	font-family: 'Ubuntu', sans-serif;
 	font-size:60px;
 	margin-top:2em;
 }
@@ -193,13 +138,13 @@ h4 {
 }
 
 #countdown .countdown_amount {
-	font-family:'Economica';
+	font-family: 'Ubuntu', sans-serif;
 	font-size:50px;
 	margin-bottom:10px;
 }
 
 #countdown .countdown_section {
-	font-family:'sinkin_sans200_x_light';
+	font-family: 'Ubuntu', sans-serif;
 	font-size:10px;
 }
 
@@ -244,14 +189,14 @@ h4 {
 }
 
 .fact .timer {
-	font-family:'sinkin_sans200_x_light'; 
+	font-family:'Ubuntu', sans-serif; 
 	font-size:55px;
 	line-height:55px;
 }
 
 .fact p {
 	font-size:13px;
-	font-family:'sinkin_sans700_bold';
+	font-family:'Ubuntu', sans-serif;
 	letter-spacing:1px;
 }
 
@@ -326,7 +271,7 @@ h4 {
 }
 
 .speaker .title {
-	font-family:'sinkin_sans200_x_light';
+	font-family:'Ubuntu', sans-serif;
 	font-size:12px;
 }
 
@@ -393,7 +338,7 @@ h4 {
 }
 
 .event .icon .time {
-	font-family:'Economica';
+	font-family:'Ubuntu', sans-serif;
 	font-size:22px;
 	font-weight:700;
 }
@@ -409,7 +354,7 @@ h4 {
 }
 
 .event .name {
-	font-family:'sinkin_sans600_semibold';
+	font-family:'Ubuntu', sans-serif;
 	font-size:14px;
 }
 
@@ -430,7 +375,7 @@ h4 {
 
 #days .item h4,
 #days .item h5 {
-	font-family:'sinkin_sans600_semibold';
+	font-family:'Ubuntu', sans-serif;
 	margin-bottom:10px;
 	text-align:center;
 	cursor:pointer;
@@ -469,7 +414,7 @@ h4 {
 }
 
 #venue h4 {
-	font-family:'sinkin_sans600_semibold';
+	font-family:'Ubuntu', sans-serif;
 	margin-bottom:15px;
 }
 
@@ -519,7 +464,7 @@ h4 {
 }
 
 #testimonial h4 {
-	font-family:'sinkin_sans700_bold';
+	font-family:'Ubuntu', sans-serif;
 	letter-spacing:1px;
 	margin:0;
 }
@@ -613,7 +558,7 @@ h4 {
 }
 
 .price-table-header .price {
-	font-family:'Economica';
+	font-family:'Ubuntu', sans-serif;
 	font-size:61px;
 	font-weight:700;
 	margin-bottom:10px;
@@ -621,7 +566,7 @@ h4 {
 }
 
 .price-table-header .title {
-	font-family:'sinkin_sans400_regular';
+	font-family:'Ubuntu', sans-serif;
 	font-size:22px;
 	padding-bottom:20px;
 	line-height:22px;
@@ -755,7 +700,7 @@ select {
 /* BUTTONS */
 
 .button {
-	font-family:'sinkin_sans700_bold';
+	font-family:'Ubuntu', sans-serif;
 	font-size: 10px;
 	text-transform: uppercase;
 	border: none;
