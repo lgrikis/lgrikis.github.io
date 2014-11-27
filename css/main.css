@@ -84,9 +84,10 @@ h4 {
 }
 
 .navbar-custom {
+    background: rgba(25,25,25,.5);
     font-family: 'Exo 2', sans-serif;
 	font-size:12px;
-    font-weight: bold
+    font-weight: 700;
 	border-radius:0;
 	margin-bottom:0;
 	padding: 0;
